@@ -11,4 +11,4 @@
 
 ## 已转换翻译源
 
- - source001 [https://www.medicaldaily.com/rss](https://www.medicaldaily.com/rss) -> [medicaldaily(CN)](rss/medicaldaily(CN))
+ - source001 [https://www.medicaldaily.com/rss](https://www.medicaldaily.com/rss) -> [medicaldaily(CN).xml](rss/medicaldaily(CN).xml)
