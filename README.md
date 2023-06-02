@@ -13,3 +13,4 @@
 
  - source001 [https://www.medicaldaily.com/rss](https://www.medicaldaily.com/rss) -> [medicaldaily(CNRSS).xml](rss/medicaldaily(CNRSS).xml)
  - source002 [https://www.news-medical.net/syndication.axd?format=rss](https://www.news-medical.net/syndication.axd?format=rss) -> [news-medical(CNRSS).xml](rss/news-medical(CNRSS).xml)
+ - source003 [https://www.drugs.com/feeds/medical_news.xml](https://www.drugs.com/feeds/medical_news.xml) -> [Drugs News(CNRSS).xml](rss/Drugs News(CNRSS).xml)
